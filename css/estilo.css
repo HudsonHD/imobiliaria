@@ -1,0 +1,121 @@
+div .topo,
+.secao {
+     text-align: center;
+     background-color: #afddfb;
+     margin: 0%;
+}
+
+.logo {
+     width: 150px;
+
+}
+
+div,
+.topo .secao {
+     margin-top: 15px;
+     text-align: center;
+     margin-bottom: 25px;
+}
+
+.masao {
+     margin-top: 50px;
+     padding: 0%;
+}
+
+span {
+     font-weight: bold;
+}
+
+.yellow {
+     color: #ffffe0;
+}
+
+/*.texto-blue {
+     background-color: blue;
+}
+
+div {
+     text-align: center;
+}*/
+h1 {
+     color: #1d1d1d;
+     margin: 5px;
+}
+
+h2 {
+     color: #1c81c0;
+     margin: 0%;
+     font-weight: normal;
+}
+
+.assinatura,
+.corretores {
+     width: 450px;
+}
+
+.texto-azul {
+     color: #1d80c1;
+     font-weight: bold;
+}
+
+.fundo-azul {
+     background-color: #1d80c1;
+}
+
+h3 {
+     color: #ffffff;
+     font-size: 28px;
+     height: 42;
+}
+
+div .fundo-azul p {
+     width: 700;
+     color: #ffffff;
+     height: 42px;
+     font-size: 22px;
+     text-align: center;
+}
+
+.yellow {
+     color: #fff81b;
+}
+
+div .fundo-azul ul {
+     width: 135px;
+     margin: 40px auto 40px auto;
+}
+
+div .fundo-azul li {
+     color: #ffffff;
+     height: 42px;
+     text-align: left;
+     font-size: 22px;
+}
+
+.sub {
+     font-size: 28px;
+     height: 42;
+}
+
+div .copia p {
+     width: 700;
+     height: 42px;
+     font-size: 22px;
+     text-align: center;
+}
+
+.preto {
+     color: #ffffff;
+     background-color: #1d1d1d;
+     padding: 15px;
+     margin-top: 30px;
+}
+
+.marcacao {
+     margin: 40px auto 40px auto;
+     width: 210px;
+}
+
+.marcacao .li {
+     color: pink;
+}
